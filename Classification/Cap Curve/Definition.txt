@@ -1,0 +1,1 @@
+Cap Curve or Cumulative Accuracy Profile is a curve which is drawn according to the ranom line, and more the distance between the cap curve and the random line, more is the better prediction or better model for predicting values. 
