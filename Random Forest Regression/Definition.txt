@@ -1,0 +1,1 @@
+Random Forest Regression is the repeated Decision Tree Regression. In the Decision Tree, the set is splitted into various groups and trained accordingly. And in Random Forest Regression, the Decision Tree is applied many times and then the data is trained accordingly. 

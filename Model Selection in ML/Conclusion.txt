@@ -1,0 +1,1 @@
+A model as predicting power output according to the trained data. The best model for doing so is Random forest Regression as it gives almost the perfect predicted output. And the Decision Tree Regression gives the worst predicted output.
