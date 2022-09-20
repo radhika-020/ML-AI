@@ -1,0 +1,2 @@
+Clustering means Clusteringthe data in to different clusters as per the information received. For example, you are a person with whole love of gadgets, and you keep on searching for different gadgets online. And suppose your mother is fond of the kitchen items, makeups, sarees/suits, etc. Then you both will be divided into different clusters and the results would be shown to you according to the different clusters made.
+Note that, there is/are no dependent variable(s) here, and everything is independent.
